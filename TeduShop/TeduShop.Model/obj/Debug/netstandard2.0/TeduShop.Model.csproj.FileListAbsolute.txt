@@ -1,0 +1,10 @@
+D:\PBL6\Shop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.deps.json
+D:\PBL6\Shop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.dll
+D:\PBL6\Shop\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.pdb
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.csproj.AssemblyReference.cache
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfoInputs.cache
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfo.cs
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.csproj.CoreCompileInputs.cache
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.dll
+D:\PBL6\Shop\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.pdb
