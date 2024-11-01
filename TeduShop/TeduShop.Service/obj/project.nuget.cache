@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "O41L5OwE0n0=",
+  "dgSpecHash": "RquXhlqplb4=",
   "success": true,
-  "projectFilePath": "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+  "projectFilePath": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

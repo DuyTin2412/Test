@@ -272,11 +272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+      "projectUniqueName": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
       "projectName": "TeduShop.Data",
-      "projectPath": "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+      "projectPath": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Data\\obj\\",
+      "outputPath": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,8 +298,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-              "projectPath": "D:\\PBL6\\Shop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+            "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+              "projectPath": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
             }
           }
         }

@@ -11,3 +11,17 @@ D:\PBL6\Shop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.cspro
 D:\PBL6\Shop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.634FEF99.Up2Date
 D:\PBL6\Shop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.dll
 D:\PBL6\Shop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.deps.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Common.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Common.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.csproj.AssemblyReference.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.AssemblyInfoInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.AssemblyInfo.cs
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.csproj.CoreCompileInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.sourcelink.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.634FEF99.Up2Date
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.pdb

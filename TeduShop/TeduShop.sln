@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.UnitTest", "TeduSh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Common", "TeduShop.Common\TeduShop.Common.csproj", "{1C702753-C770-4759-B123-27F2A5A19C65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Data", "TeduShop.Data\TeduShop.Data.csproj", "{56CC94FA-AD5F-4C33-B4BA-2FB32E00BF56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Data", "TeduShop.Data\TeduShop.Data.csproj", "{56CC94FA-AD5F-4C33-B4BA-2FB32E00BF56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Model", "TeduShop.Model\TeduShop.Model.csproj", "{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Model", "TeduShop.Model\TeduShop.Model.csproj", "{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{CC690170-7F80-450B-89EE-F53EA2BE58DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{CC690170-7F80-450B-89EE-F53EA2BE58DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
