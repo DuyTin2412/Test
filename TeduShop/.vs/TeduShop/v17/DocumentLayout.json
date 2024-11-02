@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "D:\\PBL6\\Test\\Test\\TeduShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\visitorstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\visitorstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\systemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\supportonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\supportonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\menugroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +67,12 @@
       "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|solutionrelative:tedushop.model\\abstract\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BD087F-C8B0-48D7-9D60-9CF63308CBE0}|TeduShop.Model\\TeduShop.Model.csproj|d:\\pbl6\\test\\test\\tedushop\\tedushop.model\\abstract\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,8 +105,142 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorStatistic.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\VisitorStatistic.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\VisitorStatistic.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\VisitorStatistic.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\VisitorStatistic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:55:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemConfig.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\SystemConfig.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\SystemConfig.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\SystemConfig.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\SystemConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:54:25.619Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SupportOnline.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\SupportOnline.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\SupportOnline.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\SupportOnline.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\SupportOnline.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:53:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Slide.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Slide.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:52:11.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\ProductTag.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\ProductTag.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:51:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Tag.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Tag.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:50:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\PostTag.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\PostTag.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\PostTag.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\PostTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:49:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostCategory.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\PostCategory.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\PostCategory.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\PostCategory.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\PostCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:49:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Post.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Post.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Post.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:46:55.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Page.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Page.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:45:38.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Models\\OrderDetail.cs",
@@ -79,33 +253,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Order.cs",
-              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Order.cs",
-              "RelativeToolTip": "TeduShop.Model\\Models\\Order.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswCsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T15:20:38.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\ProductCategory.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Models\\ProductCategory.cs",
               "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\ProductCategory.cs",
               "RelativeToolTip": "TeduShop.Model\\Models\\ProductCategory.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwA0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T15:00:59.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Product.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Product.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:57:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Order.cs",
+              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Order.cs",
+              "RelativeToolTip": "TeduShop.Model\\Models\\Order.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:20:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Auditable.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Abstract\\Auditable.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Abstract\\Auditable.cs",
@@ -113,12 +300,11 @@
               "RelativeToolTip": "TeduShop.Model\\Abstract\\Auditable.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:09:43.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:09:43.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "IAuditable.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Abstract\\IAuditable.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Abstract\\IAuditable.cs",
@@ -126,61 +312,43 @@
               "RelativeToolTip": "TeduShop.Model\\Abstract\\IAuditable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:01:52.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:01:52.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Product.cs",
-              "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Product.cs",
-              "RelativeToolTip": "TeduShop.Model\\Models\\Product.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T08:57:45.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Menu.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Menu.cs",
               "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Menu.cs",
               "RelativeToolTip": "TeduShop.Model\\Models\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T08:50:48.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "MenuGroup.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\MenuGroup.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Models\\MenuGroup.cs",
               "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\MenuGroup.cs",
               "RelativeToolTip": "TeduShop.Model\\Models\\MenuGroup.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T08:48:26.478Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Footer.cs",
               "DocumentMoniker": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Footer.cs",
               "RelativeDocumentMoniker": "TeduShop.Model\\Models\\Footer.cs",
               "ToolTip": "D:\\PBL6\\Test\\Test\\TeduShop\\TeduShop.Model\\Models\\Footer.cs",
               "RelativeToolTip": "TeduShop.Model\\Models\\Footer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T08:21:45.894Z",
               "EditorCaption": ""

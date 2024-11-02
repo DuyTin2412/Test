@@ -6,16 +6,20 @@ using System.Text;
 
 namespace TeduShop.Model.Models
 {
-    [Table("MenuGroups")]
-    public class MenuGroup
+    [Table("SystemConfigs")]
+    public class SystemConfig
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] //Tự tăng
         public int ID { set; get; }
-        [Required]
-        [MaxLength(50)]
-        public string Name { set; get; }
 
-        public virtual IEnumerable<Menu> Menus { set; get; } //nhiều menu trong 1 group
+        [Required]
+        [Column(TypeName = "varchar")]
+        [MaxLength(50)]
+        public string Code { set; get; }
+
+        [MaxLength(50)]
+        public string ValueString { set; get; }
+
+        public int? ValueInt { set; get; }
     }
 }
