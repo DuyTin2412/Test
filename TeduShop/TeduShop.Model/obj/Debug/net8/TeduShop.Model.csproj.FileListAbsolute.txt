@@ -1,0 +1,15 @@
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net8\TeduShop.Model.deps.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net8\TeduShop.Model.runtimeconfig.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net8\TeduShop.Model.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net8\TeduShop.Model.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.csproj.AssemblyReference.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.AssemblyInfoInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.AssemblyInfo.cs
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.csproj.CoreCompileInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.sourcelink.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\refint\TeduShop.Model.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\TeduShop.Model.genruntimeconfig.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net8\ref\TeduShop.Model.dll

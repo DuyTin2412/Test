@@ -1,0 +1,6 @@
+@TeduShop.Web_HostAddress = http://localhost:5053
+
+GET {{TeduShop.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

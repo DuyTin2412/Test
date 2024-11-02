@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b4WcM4MA6GysLYVCOcMKaTkWHbJOejBmS04lAhZjnfA=",
+  "Source": "TeduShop.Web",
+  "BasePath": "_content/TeduShop.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

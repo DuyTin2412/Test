@@ -1,0 +1,14 @@
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net48\TeduShop.Model.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net48\TeduShop.Model.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net48\EntityFramework.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\bin\Debug\net48\System.ComponentModel.Annotations.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.csproj.AssemblyReference.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.AssemblyInfoInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.AssemblyInfo.cs
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.csproj.CoreCompileInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.sourcelink.json
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.52B81FE3.Up2Date
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.dll
+D:\PBL6\Test\Test\TeduShop\TeduShop.Model\obj\Debug\net48\TeduShop.Model.pdb

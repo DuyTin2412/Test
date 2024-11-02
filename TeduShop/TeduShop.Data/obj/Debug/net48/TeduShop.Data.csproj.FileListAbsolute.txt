@@ -1,0 +1,6 @@
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.csproj.AssemblyReference.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.AssemblyInfoInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.AssemblyInfo.cs
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.csproj.CoreCompileInputs.cache
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net48\TeduShop.Data.sourcelink.json
