@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeduShop.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f74b206bb8606cab7ba3cc968f12be5ee70cdfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a471718959df81d9c8e764d449f6b61a0cdd47")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeduShop.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeduShop.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Model", "TeduShop.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{CC690170-7F80-450B-89EE-F53EA2BE58DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Web", "TeduShop.Web\TeduShop.Web.csproj", "{5CA42A62-CF52-4E67-8F87-8C0F09C5CA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeduShop.Web", "TeduShop.Web\TeduShop.Web.csproj", "{5CA42A62-CF52-4E67-8F87-8C0F09C5CA3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

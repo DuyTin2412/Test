@@ -18,3 +18,5 @@ D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net8\TeduShop.Data.genruntime
 D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net8\ref\TeduShop.Data.dll
 D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\net8\TeduShop.Model.dll
 D:\PBL6\Test\Test\TeduShop\TeduShop.Data\bin\Debug\net8\TeduShop.Model.pdb
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net8\TeduShop.Data.Migrations.InitalDB.resources
+D:\PBL6\Test\Test\TeduShop\TeduShop.Data\obj\Debug\net8\TeduShop.Data.csproj.GenerateResource.cache
